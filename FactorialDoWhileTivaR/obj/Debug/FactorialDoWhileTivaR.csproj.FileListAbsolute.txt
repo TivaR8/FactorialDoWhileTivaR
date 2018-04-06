@@ -7,3 +7,13 @@ N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\FactorialDoWhileTivaR\FactorialDoWhileTivaR\bin\Debug\FactorialDoWhileTivaR.pdb
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.exe
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\bin\Debug\FactorialDoWhileTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\bin\Debug\FactorialDoWhileTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\bin\Debug\FactorialDoWhileTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.frmFactorialWhile.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialDoWhileTivaR\FactorialDoWhileTivaR\obj\Debug\FactorialDoWhileTivaR.pdb

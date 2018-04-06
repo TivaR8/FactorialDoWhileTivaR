@@ -12,7 +12,7 @@ using System.Windows.Forms;
  * Created on: 6-04-2018
  * Created for: ICS3U Programming
  * Daily Assignment – Day #19 - Factorial Do While
- * This program calculates the factroial of any number the user enters
+ * This program calculates the factorial of any number the user enters.
 */
 
 namespace FactorialDoWhileTivaR
@@ -38,29 +38,28 @@ namespace FactorialDoWhileTivaR
             this.lstFactorial.Items.Clear();
 
             // Set final answer to 1
-            factorialNumber = 1;
+            factorialAnswer = 1;
 
             // Set counter to 0
             factorialCounter = 0;
 
             // Get the users number from thw text box
-            factorialAnswer = Convert.ToDouble(this.txtNumber.Text);
+            factorialNumber = Convert.ToDouble(this.txtNumber.Text);
 
             // Start to do the calculations of the factorials
             do
             {
                 // Increment the counter
-                factorialCounter = factorialCounter + 1;
+                factorialCounter += 1;
 
                 // Show the counter number in the list box for the user
                 this.lstFactorial.Items.Add(factorialCounter);
 
-                // Get previous number 
-                factorialNumber =  
+
                 // Multiply the factorial counter by answer
                 factorialAnswer = factorialCounter * factorialAnswer;
 
-            } while (factorialCounter <+ factorialAnswer);
+            } while (factorialCounter < factorialNumber);
 
             // Display the answer
             lblAnswer.Show();
